@@ -1,0 +1,12 @@
+argparse
+sys
+subprocess
+re
+os
+shlex
+time
+collections
+crackmapexec
+impacket
+json
+itertools
